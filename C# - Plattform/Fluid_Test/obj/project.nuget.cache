@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4Eb0j7McWw=",
+  "success": true,
+  "projectFilePath": "C:\\C# - Plattform\\Fluid_Test\\Fluid_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magnuol\\.nuget\\packages\\fluid.core\\2.19.0\\fluid.core.2.19.0.nupkg.sha512",
+    "C:\\Users\\magnuol\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\magnuol\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\magnuol\\.nuget\\packages\\parlot\\1.3.2\\parlot.1.3.2.nupkg.sha512",
+    "C:\\Users\\magnuol\\.nuget\\packages\\timezoneconverter\\6.1.0\\timezoneconverter.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
